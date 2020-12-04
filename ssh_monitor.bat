@@ -1,0 +1,1 @@
+.venv\Scripts\python.exe ssh_manager.py
